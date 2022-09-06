@@ -1,9 +1,9 @@
-// return values as [ [], [] , [] ]
-
 const mobile = {
     name: "Samsung",
     model: "A51",
     price: "25000"
 }
 
-console.log(Object.entries(mobile))
+for (key of Object.keys(mobile)) {
+    console.log(key)
+}
