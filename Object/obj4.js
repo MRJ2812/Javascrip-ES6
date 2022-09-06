@@ -1,5 +1,5 @@
 const user = {
-    id: 'Phil Foeden',
+
     Information: {
         Country: 'England',
         Club: {
@@ -7,7 +7,6 @@ const user = {
             currentClub: 'Mancity'
         },
         Position: 'Wide forward',
-
 
     }
 }
