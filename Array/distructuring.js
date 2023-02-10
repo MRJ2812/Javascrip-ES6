@@ -1,7 +1,8 @@
-const [first, second, third] = [10, 20, 30];   // value name is not a string !!!
+// Important things, will be need later.
+
+// value name is not a string !!!
+const [first, second, third] = [10, 20, 30];
 console.log(first, second);
-
-
 
 
 // Another way

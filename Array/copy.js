@@ -12,9 +12,11 @@ console.log(array2);
 
 let array3 = [100, ...array1, 200];
 
-console.log(array3)
+console.log(array3);
 
 
 
 ////////////////////
 let array4 = [...array2, ...array3];
+
+console.log(array4);

@@ -5,7 +5,7 @@
 
 let array1 = [1, 2, 3, 4, 5]
 
-const redc = array1.reduce((previousValue, currentValue) => previousValue + currentValue, 0); // last 0 is sum = 0;
+const redc = array1.reduce((previousValue, currentValue) => previousValue + currentValue, 0); // last 0 is sum = 0; it is called initial value.
 
 console.log(redc);
 

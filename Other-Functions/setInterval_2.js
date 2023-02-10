@@ -1,4 +1,4 @@
-// Print agter 2 second
+// Print after 2 second
 
 second = 0
 setInterval(() => {
